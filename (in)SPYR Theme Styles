@@ -1,0 +1,26 @@
+/***** Default: Blue */
+.base-blue a,.base-blue h2 a:hover,.base-blue #footer a:hover { color:#0988ce; }
+.base-blue #title a { border-color:#0988ce;color:#0988ce; }
+.base-blue #title a:hover { border-color:#065e8f;color:#065e8f; }
+.base-blue ::-moz-selection,.base-blue ::selection { background-color:#0988ce; }
+.base-blue .menu-primary a:hover,.base-blue .menu-primary .current-menu-item a,.base-blue .menu-secondary a:hover,.base-blue .menu-secondary .current-menu-item a { border-color:#0988ce;color:#0988ce; }
+.base-blue #content .entry-title,.base-blue #content .entry-title a { color:#0988ce; }
+.base-blue .single .post-meta a:hover,.base-blue .widget_recent_entries a:hover,.base-blue .widget_archive a:hover,.base-blue .widget_categories a:hover,.base-blue #sidebar .widget_recent_comments a:hover,.base-blue #sidebar .widget_nav_menu a:hover,.base-blue .widget_links a:hover { color:#0988ce; }
+.base-blue .post-info .post-comments a { background-position: center -42px; }
+.base-blue .widget_inspyr_subscribe .widgettitle { background-position:0 -126px; }
+.base-blue #sidebar .widget_inspyr_subscribe .widgettitle { background-position:-440px -126px; }
+.base-blue #sidebar .sbToggle { background-position:0 -86px; }
+
+/*-- Social Icons */
+.base-blue .inspyr_icon:hover { color:#0988ce; }
+.base-blue .sm_facebook:hover i { background-position:0 -69px; }
+.base-blue .sm_youtube:hover i { background-position:-22px -69px; }
+.base-blue .sm_vimeo:hover i { background-position:-44px -69px; }
+.base-blue .sm_twitter:hover i { background-position:-66px -69px; }
+.base-blue .sm_linkedin:hover i { background-position:-88px -69px; }
+.base-blue .sm_gplus:hover i { background-position:-110px -69px; }
+.base-blue .sm_flickr:hover i { background-position:-132px -69px; }
+
+/*-- Buttons */
+.base-blue .button,.base-blue .comment-reply-link,.base-blue #content .genesis-grid .more-link,.base-blue .widget_inspyr_subscribe input[type="submit"] { background-position:0 -180px;border-color:#0a9beb; }
+.base-blue .button:hover,.base-blue .comment-reply-link:hover,.base-blue #content .genesis-grid .more-link:hover,.base-blue .widget_inspyr_subscribe input[type="submit"]:hover { background-position:0 -225px; }
